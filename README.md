@@ -1,4 +1,4 @@
-# Zavisoft Frontend Task (KICKS)
+# (KICKS)
 
 ## 1. Description:
 
